@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #include<iostream.h>
 void main()
  {
    cout<<"hai";
 }
+=======
+hello world
+bye
+>>>>>>> a77ea35c6435fb1ce1ac1f13376a1fc8c9937059
